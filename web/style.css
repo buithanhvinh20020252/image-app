@@ -1,0 +1,30 @@
+body {
+  background-color: #f5faff;
+  font-family: 'Segoe UI', sans-serif;
+  padding: 20px;
+}
+
+h2, h5 {
+  color: #1976d2;
+}
+
+.preview-img {
+  width: 400px;
+  margin: 10px 0;
+  border-radius: 10px;
+  border: 1px solid #ddd;
+}
+
+.btn-primary {
+  background-color: #1976d2;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  font-size: 16px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.btn-primary:hover {
+  background-color: #125ea3;
+}
